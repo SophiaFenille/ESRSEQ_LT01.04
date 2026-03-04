@@ -1,0 +1,2 @@
+Exercícios (Cedidos gentilmente pelo Prof. Ricardo Satoshi) – Fazer em Python
+4 - Receba a temperatura em graus Celsius. Calcule e mostre a sua temperatura convertida em fahrenheit F = (9*C+160) /5.
